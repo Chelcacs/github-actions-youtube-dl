@@ -19,7 +19,3 @@
 - [x] 从列表中下载多个视频
 - [x] 自定义配置
 - [ ] CDN 加速
-
-## License
-
-[github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
